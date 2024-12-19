@@ -2,10 +2,10 @@
 This project leverages a Long Short-Term Memory (LSTM) deep learning model to predict Ethereum (ETH) prices using historical market data. It preprocesses time-series data, trains the model, and evaluates its predictive accuracy, providing a basis for actionable insights in the volatile cryptocurrency market.
 
 ### Features
-**Data Preprocessing:** Handles missing values, normalizes data, and creates sequences for time-series analysis.
-**Deep Learning:** Implements an LSTM-based neural network for price prediction.
-**Visualization:** Provides visual comparisons of predicted vs. actual prices and tracks training/validation loss over epochs.
-**Model Saving:** Includes functionality to save and load trained models for future predictions.
+- **Data Preprocessing:** Handles missing values, normalizes data, and creates sequences for time-series analysis.
+- **Deep Learning:** Implements an LSTM-based neural network for price prediction.
+- **Visualization:** Provides visual comparisons of predicted vs. actual prices and tracks training/validation loss over epochs.
+- **Model Saving:** Includes functionality to save and load trained models for future predictions.
 
 ### Technologies Used
 The project relies on the following technologies:
