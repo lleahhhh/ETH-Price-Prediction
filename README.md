@@ -29,10 +29,10 @@ Ensure you have Python 3.7+ and TensorFlow 2.0+ installed.
 
 ### Data Description
 The dataset consists of historical Ethereum price data with the following columns:
-`Open time`: Timestamp of the data entry.
-`Open`, `High`, `Low`, `Close`: Prices during the time interval.
-`Volume`: Traded volume during the time interval.
-The project focuses on the `Close` price for prediction.
+- `Open time`: Timestamp of the data entry.
+- `Open`, `High`, `Low`, `Close`: Prices during the time interval.
+- `Volume`: Traded volume during the time interval.
+- The project focuses on the `Close` price for prediction.
 
 ### Workflow
 **1. Data Pre-processing:**
@@ -65,4 +65,4 @@ The project focuses on the `Close` price for prediction.
 - The model will process the data, train the LSTM model, evaluate its performance, and display results.
 
 ### Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes. Thanks for making it this far!
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements. Thanks for making it this far!
